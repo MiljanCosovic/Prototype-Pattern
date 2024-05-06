@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.exe
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.deps.json
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.runtimeconfig.json
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.dll
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.pdb
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfo.cs
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.dll
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\obj\Debug\net6.0\refint\PrototypePattern.dll
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.pdb
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.genruntimeconfig.cache
+C:\Users\ACER\Desktop\zadaci\PrototypePattern\PrototypePattern\obj\Debug\net6.0\ref\PrototypePattern.dll
